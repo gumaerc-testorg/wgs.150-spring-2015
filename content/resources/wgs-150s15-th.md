@@ -3,7 +3,7 @@ content_type: resource
 description: Thumbnail image of a poster for the course Gender, Power, Leadership
   & the Workplace from Spring 2015. Image courtesy of the MIT Women and Gender Studies
   Department.
-file: /media/courses/wgs-150-gender-power-leadership-and-the-workplace-spring-2015/432df0c8c06a759f2a0d2f02058673ec_WGS-150s15-th.jpg
+file: /courses/wgs-150-gender-power-leadership-and-the-workplace-spring-2015/432df0c8c06a759f2a0d2f02058673ec_WGS-150s15-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A poster for the course Gender, Power, Leadership & the Workplace from
@@ -17,3 +17,5 @@ resourcetype: Image
 title: Gender, Power, Leadership and the Workplace (thumbnail)
 uid: 432df0c8-c06a-759f-2a0d-2f02058673ec
 ---
+Thumbnail image of a poster for the course Gender, Power, Leadership & the Workplace from Spring 2015. Image courtesy of the MIT Women and Gender Studies Department.
+
