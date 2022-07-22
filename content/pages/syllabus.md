@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, class deliverables, grading, required texts, and recommended
+  texts.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 069cf3ee-3913-3138-3564-215b696e652f
 ---
@@ -107,7 +112,7 @@ In-class presentation of final paper
 
 {{< tableclose >}}
 
-See [Assignments section]({{< baseurl >}}/pages/assignments)
+See {{% resource_link 0de032ac-94f5-debf-b7de-f302a5edd43e "Assignments section" %}}
 
 Definition of Grades
 --------------------
