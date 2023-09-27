@@ -46,8 +46,10 @@
   },
   "learning_resource_types": [
     "Presentation Assignments",
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "cd01ebba-49d6-4ecd-8176-9ae1f85fb16f",
+  "site_uid": "98109cfe-1c6c-4bc2-910b-a5bd11e88778",
+  "site_short_id": "wgs.150-spring-2015",
   "title": "Course Metadata"
 }
