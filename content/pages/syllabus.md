@@ -132,6 +132,6 @@ Banaji, Mahzarin, and Anthony Greenwald. _Blindspot: Hidden Biases of Good Peopl
 Recommended Texts
 -----------------
 
-Mnookin, Robert H., Scott R. Peppet, and Andrew S. Tulumello. _Beyond Winning: Negotiating to Create Value in Deals and Disputes._ Belknap Press, 2004. ISBN: 9780674012318. \[Preview with {{% resource_link "996e5dd5-7cc9-4e75-abea-9a1c1c8e481c" "Google Books" %}}\]
+Mnookin, Robert H., Scott R. Peppet, and Andrew S. Tulumello. _Beyond Winning: Negotiating to Create Value in Deals and Disputes._ Belknap Press, 2004. ISBN: 9780674012318. \[Preview with [Google Books](http://books.google.com/books?id=CmYIBAAAQBAJ&pg=PAfrontcover\)\]
 
-Stone, Douglas, Bruce Patton, and Sheila Heen. _Difficult Conversations: How to Discuss What Matters Most._ Penguin Books, 2010. ISBN: 9780143118442. \[Preview with {{% resource_link "d0a5ec13-b4dd-4451-9408-76b2b94b212c" "Google Books" %}}\]
+Stone, Douglas, Bruce Patton, and Sheila Heen. _Difficult Conversations: How to Discuss What Matters Most._ Penguin Books, 2010. ISBN: 9780143118442. \[Preview with [Google Books](http://books.google.com/books?id=D5HxtvaRzdwC&pg=PAfrontcover)\]
