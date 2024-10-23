@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines and instructions for the final project of the course.
-file: /courses/wgs-150-gender-power-leadership-and-the-workplace-spring-2015/fa55791f4b860b852408dd256f49e5cb_MITWGS_150S15_Finalproject.pdf
+file: /ol-ocw-studio-app/courses/wgs-150-gender-power-leadership-and-the-workplace-spring-2015/fa55791f4b860b852408dd256f49e5cb_MITWGS_150S15_Finalproject.pdf
 file_size: 313092
 file_type: application/pdf
 learning_resource_types:
