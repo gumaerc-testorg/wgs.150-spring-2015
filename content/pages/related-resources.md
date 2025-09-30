@@ -8,24 +8,24 @@ title: Related Resources
 uid: 3a67ec1c-79eb-8f68-fd40-5c240b9e9297
 ---
 
-"[The Benefits of Paternity Leave](http://www.economist.com/blogs/economist-explains/2015/05/economist-explains-18?fsrc=scn/fb/wl/ee/st/benefitsofpaternityleaveexplainer)," _The Economist_, May 14, 2015.
+"{{% resource_link "2f676d2a-8f3f-4bf6-a064-725da90df068" "The Benefits of Paternity Leave" %}}," _The Economist_, May 14, 2015.
 
-Video: Yapalater, Lauren. "[Aziz Ansari Doesn't Know Who Christian Dior Is](http://www.buzzfeed.com/lyapalater/aziz-ansari-doesnt-know-who-christian-dior-is#.gvavkK5W1)," _BuzzFeed_, January 13, 2013. Responding to micro-inequities at the Golden Globes.
+Video: Yapalater, Lauren. "{{% resource_link "59a28b22-e4ce-40aa-9211-afa6bbea3784" "Aziz Ansari Doesn't Know Who Christian Dior Is" %}}," _BuzzFeed_, January 13, 2013. Responding to micro-inequities at the Golden Globes.
 
-Lyons, Sofia. "[Explaining the Implicit Quota on Women Executives](https://www.thecut.com/2015/05/implicit-quota-on-women-executives.html)." _New York Magazine_, May 2015.
+Lyons, Sofia. "{{% resource_link "37a471cc-c33e-4f67-9aef-1c13afffa548" "Explaining the Implicit Quota on Women Executives" %}}." _New York Magazine_, May 2015.
 
-Mrbenwyatt. "[Parks and Recreation: Commission on Gender Equality](http://mrbenwyatt.tumblr.com/post/63560551549)." Tumbler.
+Mrbenwyatt. "{{% resource_link "5cdb8323-53ac-4e7e-9f61-d7b950df2afe" "Parks and Recreation: Commission on Gender Equality" %}}." Tumbler.
 
-"[Next Generation Spacesuit Like Second Skin](http://tehnakki.tumblr.com/post/98406974665/mindblowingscience-next-generation-spacesuit)." _Nakking on Evan's Door blog_. September 25, 2014. Assumptions on scientist Dava Newman's gender.
+"{{% resource_link "901b44d8-4c46-49e4-a1f7-932d7e214753" "Next Generation Spacesuit Like Second Skin" %}}." _Nakking on Evan's Door blog_. September 25, 2014. Assumptions on scientist Dava Newman's gender.
 
-Aisch, Gregor, Josh Katz, et al. "[Where Working Women are Most Common](http://www.nytimes.com/interactive/2015/01/06/upshot/where-working-women-are-most-common.html?_r=1&abt=0002&abg=0#/12/42.388/-71.1)," _New York Times_, January 6, 2015.
+Aisch, Gregor, Josh Katz, et al. "{{% resource_link "8af19a8e-5cce-47b0-a7ac-f89ddb549490" "Where Working Women are Most Common" %}}," _New York Times_, January 6, 2015.
 
-Kristoff, Nicholas. "[Straight Talk for White Men](http://www.nytimes.com/2015/02/22/opinion/sunday/nicholas-kristof-straight-talk-for-white-men.html?_r=0)," _New York Times_, February 21, 2015.
+Kristoff, Nicholas. "{{% resource_link "20ff70ae-7365-4d6e-bd72-67bda4f13f4c" "Straight Talk for White Men" %}}," _New York Times_, February 21, 2015.
 
-Koerber, Brian. "[Ashton Kutcher Demands More Diaper Changing Tables in Men's Bathrooms](http://mashable.com/2015/03/10/ashton-kutcher-diapers/)." _Mashable_, March 10, 2015.
+Koerber, Brian. "{{% resource_link "8670e530-d049-425e-90f5-2d8a591dcee4" "Ashton Kutcher Demands More Diaper Changing Tables in Men's Bathrooms" %}}." _Mashable_, March 10, 2015.
 
-Rovner, Julie. "[Even in Nursing, Men Earn More Than Women](http://www.npr.org/sections/health-shots/2015/03/24/394915756/even-in-nursing-men-earn-more-than-women?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20150324)," _NPR_, March 24, 2015.
+Rovner, Julie. "{{% resource_link "3b49cf2f-c166-44e9-834a-961f5173955a" "Even in Nursing, Men Earn More Than Women" %}}," _NPR_, March 24, 2015.
 
-NPR Staff. "[Diversity Sells– but Hollywood Remains Overwhelmingly White, Male](http://www.npr.org/sections/codeswitch/2015/02/28/389259335/diversity-sells-but-hollywood-remains-overwhelmingly-white-male?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20150301)," _NPR_, February 28, 2016.
+NPR Staff. "{{% resource_link "f8591026-466b-432b-bd3d-f354aec0aa4c" "Diversity Sells– but Hollywood Remains Overwhelmingly White, Male" %}}," _NPR_, February 28, 2016.
 
-TED Talk: Hobson, Mellody. "[Color Blind or Color Brave](http://www.ted.com/talks/mellody_hobson_color_blind_or_color_brave?language=en#t-89996)," _TED_, March 2014.
+TED Talk: Hobson, Mellody. "{{% resource_link "12708180-fef4-4147-88f9-bf2180f452be" "Color Blind or Color Brave" %}}," _TED_, March 2014.
