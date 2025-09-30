@@ -45,7 +45,7 @@ Why is the Gender Gap Relevant?
 Class overview
 {{< tdclose >}}
 {{< tdopen >}}
-E. W. "[What's Holding Women Back?](http://www.economist.com/blogs/democracyinamerica/2015/01/women-and-work)" _The Economist_, January 23, 2015.
+E. W. "{{% resource_link "33c11c10-52dc-4e0d-b572-995155cee031" "What's Holding Women Back?" %}}" _The Economist_, January 23, 2015.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,15 +61,15 @@ The Business case for diversity: Women in the workforce as an engine for economi
 
 Smedley, Tim. "The Evidence is Growing—There Really is a Business Case for Diversity." _Financial Times_, May 15, 2014.
 
-Hunt, Vivian, Dennis Layton, et al. "[Why Diversity Matters?](http://www.mckinsey.com/Insights/Organization/Why_diversity_matters?cid=other-eml-alt-mip-mck-oth-1501)" _McKinsey & Company_, January 2015.
+Hunt, Vivian, Dennis Layton, et al. "{{% resource_link "2c269dde-f434-4b77-b03b-52f0ac16418e" "Why Diversity Matters?" %}}" _McKinsey & Company_, January 2015.
 
-Apfelbaum, Evan P., Katherine W. Phillips, et al. "[Rethinking the Baseline in Diversity Research: Should We Be Explaining the Effects of Homogeneity?](http://dx.doi.org/10.1177/1745691614527466)" _Perspectives on Psychological Science_ 9, no. 3 (2014): 235–44.
+Apfelbaum, Evan P., Katherine W. Phillips, et al. "{{% resource_link "80cc5410-b35f-4e4b-a437-bfd522352f71" "Rethinking the Baseline in Diversity Research: Should We Be Explaining the Effects of Homogeneity?" %}}" _Perspectives on Psychological Science_ 9, no. 3 (2014): 235–44.
 
-Guilford, Gwynn. "[The Economic Case for Paternity Leave](http://qz.com/266841/economic-case-for-paternity-leave/)," _Quartz_, September 24, 2014.
+Guilford, Gwynn. "{{% resource_link "36e8fb5a-4d6d-41c2-be6d-acc5a2cfc59e" "The Economic Case for Paternity Leave" %}}," _Quartz_, September 24, 2014.
 
-Karwata, Karen. "[Holding Back Half the Nation](http://www.economist.com/news/briefing/21599763-womens-lowly-status-japanese-workplace-has-barely-improved-decades-and-country)," _The Economist_, March 29, 2014.
+Karwata, Karen. "{{% resource_link "ca097c5c-110d-4f19-a524-78371ac20cd3" "Holding Back Half the Nation" %}}," _The Economist_, March 29, 2014.
 
-Federal Reserve Bank of St. Louis. "[Gross Domestic Product – The Economic Lowdown Video Series](https://www.youtube.com/watch?v=1Il5IQHcYP8)." October 7, 2014. YouTube.
+Federal Reserve Bank of St. Louis. "{{% resource_link "d4d83737-8778-4b1e-8ad9-ec6e7b5ecfd1" "Gross Domestic Product – The Economic Lowdown Video Series" %}}." October 7, 2014. YouTube.
 
 
 {{< tdclose >}}
@@ -93,7 +93,7 @@ Guest Speaker
 {{< tdopen >}}
 
 
-"[Sex Differences in Academia](http://www.economist.com/news/science-and-technology/21639439-women-are-scarce-some-not-all-academic-disciplines-new-work-suggests?fsrc=scn/fb/te/bl/ed/universitychallenge)," _The Economist_, January 17, 2015.
+"{{% resource_link "7b0ee0e7-4297-4c22-8962-bd6f5a89eda9" "Sex Differences in Academia" %}}," _The Economist_, January 17, 2015.
 
 
 {{< tdclose >}}
@@ -127,9 +127,9 @@ Where we come from?
 {{< tdopen >}}
 
 
-"[Sophie Germain](https://en.wikipedia.org/wiki/Sophie_Germain)." Wikipedia.
+"{{% resource_link "cfeebd79-1ec6-4196-ae03-2eefe06f0341" "Sophie Germain" %}}." Wikipedia.
 
-McLaughlin, Katie. "[5 Things Women Couldn't Do in the 1960's](http://edition.cnn.com/2014/08/07/living/sixties-women-5-things/)," _CNN_, August 25, 2014.
+McLaughlin, Katie. "{{% resource_link "7feef6e2-2ae5-40ad-adc4-0c0b9b3abed8" "5 Things Women Couldn't Do in the 1960's" %}}," _CNN_, August 25, 2014.
 
 
 {{< tdclose >}}
@@ -145,9 +145,9 @@ What is the gender pay gap and how does it happen?
 {{< tdopen >}}
 
 
-Ely, Robin J., Pamela Stone, et al. "[Rethinking What You "Know" about High-achieving Women](https://hbr.org/2014/12/rethink-what-you-know-about-high-achieving-women)." _Harvard Business Review_, December 2014.
+Ely, Robin J., Pamela Stone, et al. "{{% resource_link "2a6a8896-c613-4fca-9b55-f0edbd3e2743" "Rethinking What You \"Know\" about High-achieving Women" %}}." _Harvard Business Review_, December 2014.
 
-Labaton, Vivien. "[Five Myths about the Gender Pay Gap](https://www.washingtonpost.com/opinions/five-myths-about-the-gender-pay-gap/2014/07/25/9e5cff34-fcd5-11e3-8176-f2c941cf35f1_story.html)," _The Washington Post_, July 25, 2014.
+Labaton, Vivien. "{{% resource_link "35b26400-cbee-44c4-8f51-5c38151e8c1d" "Five Myths about the Gender Pay Gap" %}}," _The Washington Post_, July 25, 2014.
 
 
 {{< tdclose >}}
@@ -181,11 +181,11 @@ The paradox of meritocracy in organizations
 {{< tdopen >}}
 
 
-"[When Fair Goes Foul: MIT Sloan Researcher Finds That Efforts to Promote Workplace Meritocracy Can Have the Opposite Effect](http://www.businesswire.com/news/home/20110502006774/en/Fair-Foul-MIT-Sloan-Researcher-Finds-Efforts#.VebJjZcXu77)," _Business Wire_, May 2, 2011.
+"{{% resource_link "fd6683e4-b032-4f35-bcb8-3ca9ee9eaf18" "When Fair Goes Foul: MIT Sloan Researcher Finds That Efforts to Promote Workplace Meritocracy Can Have the Opposite Effect" %}}," _Business Wire_, May 2, 2011.
 
-Castilla, Emilio J., and Stephen Benard. "[The Paradox Meritocracy in Organizations](http://dx.doi.org/10.2189/asqu.2010.55.4.543)." _Administrative Science Quarterly_ 55, no. 4 (2010): 543–676.
+Castilla, Emilio J., and Stephen Benard. "{{% resource_link "bf2ddbd2-bbdb-49cb-a4a4-eab3f7e836c0" "The Paradox Meritocracy in Organizations" %}}." _Administrative Science Quarterly_ 55, no. 4 (2010): 543–676.
 
-Hu, Elise. "[How the Meritocracy Myth Affects Women in Technology](http://www.npr.org/sections/alltechconsidered/2014/02/06/272646267/how-the-meritocracy-myth-affects-women-in-technology)." _All Tech Considered_, February 7, 2014.
+Hu, Elise. "{{% resource_link "6ec17568-84fd-423f-b316-115e310fca09" "How the Meritocracy Myth Affects Women in Technology" %}}." _All Tech Considered_, February 7, 2014.
 
 
 {{< tdclose >}}
@@ -213,11 +213,11 @@ Parental leave: The role of policy on promoting dual-career households
 {{< tdopen >}}
 
 
-C. W. "[Maternity Leave-Baby Steps](http://www.economist.com/blogs/freeexchange/2014/02/maternity-leave)," _The Economist_, February 26, 2014.
+C. W. "{{% resource_link "645df08e-573e-4474-aa4f-51e23629a96d" "Maternity Leave-Baby Steps" %}}," _The Economist_, February 26, 2014.
 
-"[Maternity Leave-From Here to Maternity](http://www.economist.com/node/11737128)," _The Economist_, July 15, 2008.
+"{{% resource_link "0df7654d-b969-44d6-bd4e-472144b8b2a3" "Maternity Leave-From Here to Maternity" %}}," _The Economist_, July 15, 2008.
 
-Mundy, Liza. "[Daddy Track: The Case for Paternity Leave](http://www.theatlantic.com/magazine/archive/2014/01/the-daddy-track/355746/)," _The Atlantic,_ January / February 2014.
+Mundy, Liza. "{{% resource_link "a48b087a-4fe2-4bb9-b6f1-8ebf04ee0230" "Daddy Track: The Case for Paternity Leave" %}}," _The Atlantic,_ January / February 2014.
 
 
 {{< tdclose >}}
@@ -245,13 +245,13 @@ Work-life balance and child care policies
 {{< tdopen >}}
 
 
-Lee, Esther, and Brody Brown. "[Jennifer Garner: No One Asks Ben about Work-family Balance](http://www.today.com/popculture/jennifer-garner-no-one-asks-ben-about-work-family-balance-1D80232707)," _Today Pop Culture_, October 22, 2014.
+Lee, Esther, and Brody Brown. "{{% resource_link "110c4123-a82f-40bf-8874-9c9fc29c6205" "Jennifer Garner: No One Asks Ben about Work-family Balance" %}}," _Today Pop Culture_, October 22, 2014.
 
-Friedersdorf, Conor. "[Why PepsiCo CEO Indra K. Nooyi Can't Have it All](http://www.theatlantic.com/business/archive/2014/07/why-pepsico-ceo-indra-k-nooyi-cant-have-it-all/373750/)." _The Atlantic_, July 2014.
+Friedersdorf, Conor. "{{% resource_link "f151fa35-ad95-4806-b059-b7e8c788f9fd" "Why PepsiCo CEO Indra K. Nooyi Can't Have it All" %}}." _The Atlantic_, July 2014.
 
-Schireson's, Max. "[Why I Am Leaving the Best Job I Ever Had](http://maxschireson.com/2014/08/05/1137/)." Max Schireson's blog, August 5, 2014.
+Schireson's, Max. "{{% resource_link "875f83b5-c4d5-4db1-9e83-95dda8f395ef" "Why I Am Leaving the Best Job I Ever Had" %}}." Max Schireson's blog, August 5, 2014.
 
-"[Why Child Care Is the Economy's 'Invisible' Driver](http://knowledge.wharton.upenn.edu/article/economic-impact-of-child-care/)." _Knowledge@Wharton_, September 17, 2014.
+"{{% resource_link "1da09a2d-9f6e-4990-8124-2ad3844ba1ef" "Why Child Care Is the Economy's 'Invisible' Driver" %}}." _Knowledge@Wharton_, September 17, 2014.
 
 
 {{< tdclose >}}
@@ -273,11 +273,11 @@ What is implicit bias?
 {{< tdopen >}}
 
 
-"[Deadlier Than the Male](http://www.economist.com/news/science-and-technology/21603243-hurricanes-womens-names-seem-kill-more-do-those-mens-deadlier?fsrc=scn%2Ffb%2Fte%2Fbl%2Fed%2Fdeadlierhtanthemale)," _The Economist_, June 2, 2014.
+"{{% resource_link "2f0e3181-174f-4203-a0f8-7bcbaeb178b5" "Deadlier Than the Male" %}}," _The Economist_, June 2, 2014.
 
-Chugh, Dolly, Katherine L. Milkman, et al. "[Professors Are Prejudiced, Too](http://www.nytimes.com/2014/05/11/opinion/sunday/professors-are-prejudiced-too.html?_r=3)," _The New York Times_, May 9, 2014.
+Chugh, Dolly, Katherine L. Milkman, et al. "{{% resource_link "ea397812-d46f-459c-a69a-987ebea0de97" "Professors Are Prejudiced, Too" %}}," _The New York Times_, May 9, 2014.
 
-Kerr, Anna Giraldo. "[Living While Brown: Adventures of a Latina in the Suburbs](http://www.huffingtonpost.com/anna-giraldo-kerr/living-while-brown-advent_b_5908118.html?ir=India&adsSiteOverride=in)," _The Huffington Post_, October 2, 2014.
+Kerr, Anna Giraldo. "{{% resource_link "f58a14c4-8e56-4947-9a0d-a6474b284fca" "Living While Brown: Adventures of a Latina in the Suburbs" %}}," _The Huffington Post_, October 2, 2014.
 
 
 {{< tdclose >}}
@@ -299,9 +299,9 @@ Guest Speaker
 {{< tdopen >}}
 
 
-"[A Study on the Status of Women Faculty in Science at MIT](http://web.mit.edu/fnl/women/women.html#The%20Study)." _The MIT Faculty Newsletter_, March 1999.
+"{{% resource_link "3117b5d4-ec0c-4e25-a694-e9ffbdca2122" "A Study on the Status of Women Faculty in Science at MIT" %}}." _The MIT Faculty Newsletter_, March 1999.
 
-Desta, Yohana. "[100% of the Women of Color Interviewed in Stem Study Experienced Gender Bias](http://mashable.com/2015/01/26/women-of-color-stem-research/)," _Mashable_, January 26, 2015.
+Desta, Yohana. "{{% resource_link "20b8607a-ad2c-4c1e-8a07-adb18ca416d0" "100% of the Women of Color Interviewed in Stem Study Experienced Gender Bias" %}}," _Mashable_, January 26, 2015.
 
 
 {{< tdclose >}}
@@ -317,11 +317,11 @@ Stereotypes, media and education: The reinforcing mechanism of implicit bias
 {{< tdopen >}}
 
 
-Barford, Vanessa. "[Do Children's Toys Influence their Career Choices?](http://www.bbc.com/news/magazine-25857895)" _BBC_, January 27, 2014.
+Barford, Vanessa. "{{% resource_link "677a088a-6b94-4bb3-b9f9-e5706921ccef" "Do Children's Toys Influence their Career Choices?" %}}" _BBC_, January 27, 2014.
 
-Sweet, Elizabeth. "[Toys Are More Divided By Gender Now Than They Were 50 Years Ago](http://www.theatlantic.com/business/archive/2014/12/toys-are-more-divided-by-gender-now-than-they-were-50-years-ago/383556/)." _The Atlantic_, December 2014.
+Sweet, Elizabeth. "{{% resource_link "cf8a2f5c-9f2e-444c-be38-9b2c1082ade8" "Toys Are More Divided By Gender Now Than They Were 50 Years Ago" %}}." _The Atlantic_, December 2014.
 
-Miller, Claire Cain. "[How Elementary School Teachers' Biases Can Discourage Girls from Math and Science](http://www.nytimes.com/2015/02/07/upshot/how-elementary-school-teachers-biases-can-discourage-girls-from-math-and-science.html?abt=0002&abg=0)," _The New York Times_, February 6, 2015.
+Miller, Claire Cain. "{{% resource_link "fd4c389b-6d77-4345-b0f3-60d05d9d0105" "How Elementary School Teachers' Biases Can Discourage Girls from Math and Science" %}}," _The New York Times_, February 6, 2015.
 
 
 {{< tdclose >}}
@@ -337,13 +337,13 @@ How does implicit bias affect the composition of the workforce?
 {{< tdopen >}}
 
 
-S. H. "[(The Right Sort of) Help Wanted](http://www.economist.com/blogs/freeexchange/2014/06/labour-market-discrimination)." _The Economist_, June 11, 2014.
+S. H. "{{% resource_link "3b6a5534-31ef-420c-a9e0-65978c6bb3d4" "(The Right Sort of) Help Wanted" %}}." _The Economist_, June 11, 2014.
 
-Rissing, Ben A., and Emilio J. Castilla. "[House of Green Cards: Statistical or Preference-based Inequalaity in the Employment of Foreign Nationals](http://dx.doi.org/10.1177/0003122414553656)." _American Sociological Review_ 79, no. 6 (2014): 1226–55.
+Rissing, Ben A., and Emilio J. Castilla. "{{% resource_link "d42443c2-dc94-4d20-872c-739e8a07d6ac" "House of Green Cards: Statistical or Preference-based Inequalaity in the Employment of Foreign Nationals" %}}." _American Sociological Review_ 79, no. 6 (2014): 1226–55.
 
-Guo, Philip. "[Silent Technical Privilege](http://www.slate.com/articles/technology/technology/2014/01/programmer_privilege_as_an_asian_male_computer_science_major_everyone_gave.html)." _Slate_, January 2014.
+Guo, Philip. "{{% resource_link "594e0460-bfe2-40ba-8292-8ac9593d7842" "Silent Technical Privilege" %}}." _Slate_, January 2014.
 
-Yurkiewicz, Ilana. "[Study Shows Gender Bias in Science is Real. Here's Why it Matters](http://blogs.scientificamerican.com/unofficial-prognosis/study-shows-gender-bias-in-science-is-real-heres-why-it-matters/)," _Scientific American_, September 23, 2012.
+Yurkiewicz, Ilana. "{{% resource_link "fce299ba-bf7b-49c1-9b63-33c67c2351dd" "Study Shows Gender Bias in Science is Real. Here's Why it Matters" %}}," _Scientific American_, September 23, 2012.
 
 
 {{< tdclose >}}
@@ -361,7 +361,7 @@ Case: Implicit bias at Google
 
 Banaji, Mahzarin R., and Anthony G. Greenwald. _Blindspot: Hidden Biases of Good People_. Delacorte Press, 2013. ISBN: 9780553804645.
 
-Manjoo, Farhad. "[Exposing Hidden Bias at Google](http://www.nytimes.com/2014/09/25/technology/exposing-hidden-biases-at-google-to-improve-diversity.html)," _The New York Times_, September 24, 2014.
+Manjoo, Farhad. "{{% resource_link "8ef84d23-1587-4033-b186-494e41bcadd2" "Exposing Hidden Bias at Google" %}}," _The New York Times_, September 24, 2014.
 
 
 {{< tdclose >}}
@@ -377,13 +377,13 @@ Women and negotiations I
 {{< tdopen >}}
 
 
-PON Staff. "[Characteristics of Negotiation Styles: Negotiation Skills for Win-win Negotiations](http://www.pon.harvard.edu/daily/negotiation-skills-daily/listening-skills-for-maximum-success/)." Program on Negotiation, Harvard Law School Daily Blog. December 8, 2015.
+PON Staff. "{{% resource_link "14f2d878-ac09-40d4-be61-c76712fae497" "Characteristics of Negotiation Styles: Negotiation Skills for Win-win Negotiations" %}}." Program on Negotiation, Harvard Law School Daily Blog. December 8, 2015.
 
 ### Recommended
 
-Mnookin, Robert H., Scott R. Peppet, and Andrew S. Tulumello. _Beyond Winning: Negotiating to Create Value in Deals and Disputes_. Belknap Press, 2004. ISBN: 9780674012318. \[Preview with [Google Books](https://books.google.com/books?id=CmYIBAAAQBAJ&pg=PAfrontcover\#v=onepage&q&f=false)\]
+Mnookin, Robert H., Scott R. Peppet, and Andrew S. Tulumello. _Beyond Winning: Negotiating to Create Value in Deals and Disputes_. Belknap Press, 2004. ISBN: 9780674012318. \[Preview with {{% resource_link "5f9be3c6-6620-40ce-8c8c-633de6047fd3" "Google Books" %}}\]
 
-Stone, Douglas, Bruce Patton, and Sheila Heen. _Difficult Conversations: How to Discuss What Matters Most_. Penguin Books, 2010. ISBN: 9780143118442. \[Preview with [Google Books](https://books.google.ca/books?id=D5HxtvaRzdwC&printsec=frontcover&dq=editions:PoPXry7Y-AEC&hl=en&sa=X&redir_esc=y#v=onepage&q&f=false)\]
+Stone, Douglas, Bruce Patton, and Sheila Heen. _Difficult Conversations: How to Discuss What Matters Most_. Penguin Books, 2010. ISBN: 9780143118442. \[Preview with {{% resource_link "3ca14d72-3385-44df-af23-55379e63f4e8" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -415,9 +415,9 @@ Micro-inequities and micro-affirmations
 {{< tdopen >}}
 
 
-Kerr, Anna Giraldo. "[6 Things to Learn about Microaggressions](http://www.huffingtonpost.com/anna-giraldo-kerr/six-things-to-learn-about_b_5512057.html?ir=India&adsSiteOverride=in)," _The Huffington Post_, June 20, 2014.
+Kerr, Anna Giraldo. "{{% resource_link "0bbaa180-6013-46c7-9f6c-675e126e896b" "6 Things to Learn about Microaggressions" %}}," _The Huffington Post_, June 20, 2014.
 
-———. "[5 Tips to Handle Microaggressions Effectively](http://www.huffingtonpost.com/anna-giraldo-kerr/5-tips-to-handle-microagg_b_5658351.html?ir=India&adsSiteOverride=in)," _The Huffington Post_, August 9, 2014.
+———. "{{% resource_link "11e46221-e047-456c-9851-ec8531469917" "5 Tips to Handle Microaggressions Effectively" %}}," _The Huffington Post_, August 9, 2014.
 
 
 {{< tdclose >}}
@@ -455,7 +455,7 @@ Guest Speaker
 
 {{< tdclose >}}
 {{< tdopen >}}
-Lauren. "[Blind Orchestra Auditions Better for Women, Study Finds](http://www.princeton.edu/main/news/archive/A94/90/73G00/)." _News at Princeton_, November 28, 2000.
+Lauren. "{{% resource_link "e9203148-d9d1-4163-ac2b-3a79d53aa512" "Blind Orchestra Auditions Better for Women, Study Finds" %}}." _News at Princeton_, November 28, 2000.
 {{< tdclose >}}
 
 {{< trclose >}}
